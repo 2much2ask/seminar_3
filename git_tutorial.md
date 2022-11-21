@@ -42,4 +42,6 @@
 
 ```git reset номер коммита```
 
-10. tests
+10. hello its tests kjlkjjjlj
+tests
+hello its tests
